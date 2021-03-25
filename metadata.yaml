@@ -1,11 +1,16 @@
 _repo: Musical-Travels-Through-England_64895
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64895-h/images/cover.jpg
 creator:
   author:
     agent_name: Collier, Joel
     gutenberg_agent_id: '53088'
     url: http://www.gutenberg.org/2009/agents/53088
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64895#Musical-Travels-Through-England
 gutenberg_issued: '2021-03-21'
 gutenberg_type: Text
 identifiers:
